@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "801421952795",
+    "firebase_url": "https://fir-login-85aa4.firebaseio.com",
+    "project_id": "fir-login-85aa4",
+    "storage_bucket": "fir-login-85aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801421952795:android:c366826534baa9b73035be",
+        "android_client_info": {
+          "package_name": "com.iitbbs.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801421952795-j9l1p4ph1vbfqpvq58f25o0dv0qd0hgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iitbbs.firebase_login",
+            "certificate_hash": "b9a45c695088dd3e73e4d67803570cdb44ec8d0a"
+          }
+        },
+        {
+          "client_id": "801421952795-kqh518lftp0nselc466q0jg0qblr9bbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBg-6WVh5pc6dGD8cocvSVOOSDxv_bX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801421952795-kqh518lftp0nselc466q0jg0qblr9bbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

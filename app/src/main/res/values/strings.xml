@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firebase_login</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_home">home</string>
+</resources>
